@@ -1,0 +1,7 @@
+.webT {
+    color: blue;
+    filter: saturate(90%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* css is a middle ware technology - can pass styles to elements with same selectors */
